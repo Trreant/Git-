@@ -9,7 +9,7 @@ Git是很流行的一种版本控制系统。何为版本控制系统？版本�
 git的诞生与Linux内核开源项目有着密不可分的关系。早期的Linux开源社区使用BitKeeper来管理和维护代码，但在2005年开发BitKeeper的公司结束了与开源社区的合作，收回了Linux开源社区免费使用BitKeeper的权利。这就迫使Linux开源社区开发出自己的版本管理系统也就是Git来管理和维护代码。自2005年Git诞生到现在，Git已经成为一个成熟完善的版本管理系统。
 
 ## Git安装与配置
-####下载安装
+#### 下载安装
 通常windows用户可以在[Git for Windows](https://git-scm.com/download/win)网站下载git软件。  
 #### 配置用户信息
 完成安装后需要进行配置。在**Git Bash**中使用如下命令来配置用户名和电子邮件地址
